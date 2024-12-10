@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Saba! 👋
+I'm a computer science junior at Stony Brook University, with a passion for **AI/ML**, **data science**, and **data visualization**. I thrive in collaborative environments, and I am eager to enhance and apply my skills to impactful opportunities!
 
-<!--
-**saba-sohail/saba-sohail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/saba-sohail-a8b19627a/)!
+### 🎯 Featued Project: Vaccination Coverage Analysis for Pfizer
+By leveraging two public datasets from the CDC, my team and I explored drivers for vaccination coverage for Pfizer. This project aims to support public health goals in uncovering possible interventions in vaccination coverage.
+- **Tools:** Python, scikit-learn, Pandas, NumPy, Catboost
+- **Visualization:** matplotlib, Plotly
 
-Here are some ideas to get you started:
+See the full project [here](https://github.com/saba-sohail/Pfizer-Vaccination-Rates) 👀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✍️ Currently Working On:
+- **Chocolate Chip Cookie Recipe Generator:** A web app using Python and Flask that creates a chocolate chip cookie recipe based on available ingredients and dietary restrictions.
+- **Coffee Beverage Recommendations:** A coffee recommendation system using custom simulated data to provide personalized coffee suggestions based on user preferences and attributes.
+### 🛠 Tech Stack:
+- **Programming Languages:** Python, Java, C/C++, HTML, CSS, TypeScript, JavaScript
+- **Libraries & Frameworks:** scikit-learn, Pandas, NumPy, matplotlib, Plotly, seaborn
+- **Web Development:** React, Node.js, Express
+- **Databases:** MongoDB, SQLite
+- **Development Tools:** Jupyter Notebooks, Google Colab
+- **Version Control:** Git, GitHub

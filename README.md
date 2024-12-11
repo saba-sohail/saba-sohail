@@ -3,7 +3,7 @@ I'm a computer science junior at Stony Brook University, with a passion for **AI
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/saba-sohail-a8b19627a/)!
 ### 🎯 Featued Project: Vaccination Coverage Analysis for Pfizer
-By leveraging two public datasets from the CDC, my team and I explored drivers for vaccination coverage for Pfizer. This project aims to support public health goals in uncovering possible interventions in vaccination coverage.
+By leveraging two public datasets from the CDC, my team and I explored drivers for vaccination coverage for Pfizer. This project aims to support public health goals by uncovering possible interventions in vaccination coverage.
 - **Tools:** Python, scikit-learn, Pandas, NumPy, Catboost
 - **Visualization:** matplotlib, Plotly
 

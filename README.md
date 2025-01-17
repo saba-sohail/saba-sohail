@@ -9,9 +9,6 @@ By leveraging two public datasets from the CDC, my team and I explored drivers f
 
 See the full project [here](https://github.com/saba-sohail/Pfizer-Vaccination-Rates) 👀
 
-### ✍️ Currently Working On:
-- **Chocolate Chip Cookie Recipe Generator:** A web app using Python and Flask that creates a chocolate chip cookie recipe based on available ingredients and dietary restrictions.
-- **Coffee Beverage Recommendations:** A coffee recommendation system using custom simulated data to provide personalized coffee suggestions based on user preferences and attributes.
 ### 🛠 Tech Stack:
 - **Programming Languages:** Python, Java, C/C++, HTML, CSS, TypeScript, JavaScript
 - **Libraries & Frameworks:** scikit-learn, Pandas, NumPy, matplotlib, Plotly, seaborn

@@ -1,5 +1,5 @@
 ## Hi, I'm Saba! 👋
-I'm a computer science junior at Stony Brook University, with a passion for **AI/ML**, **data science**, and **data visualization**. I thrive in collaborative environments, and I am eager to enhance and apply my skills to impactful opportunities!
+I'm a computer science and applied math junior at Stony Brook University, with a passion for **AI/ML**, **data science**, and **data visualization**. I thrive in collaborative environments, and I am eager to enhance and apply my skills to impactful opportunities!
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/saba-sohail-a8b19627a/)!
 ### 🎯 Featued Project: Vaccination Coverage Analysis for Pfizer
@@ -15,4 +15,5 @@ See the full project [here](https://github.com/saba-sohail/Pfizer-Vaccination-Ra
 - **Web Development:** React, Node.js, Express
 - **Databases:** MongoDB, SQLite
 - **Development Tools:** Jupyter Notebooks, Google Colab
-- **Version Control:** Git, GitHub
+- **Version Control:** Git, GitLab
+- ✍️ **Currently learning:** Flask, Tableau, Power BI

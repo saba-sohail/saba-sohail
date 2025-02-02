@@ -16,4 +16,4 @@ See the full project [here](https://github.com/saba-sohail/Pfizer-Vaccination-Ra
 - **Databases:** MongoDB, SQLite
 - **Development Tools:** Jupyter Notebooks, Google Colab
 - **Version Control:** Git, GitLab
-- ✍️ **Currently learning:** Flask, Tableau, Power BI
+- ✍️ **Currently learning:** Flask, Tableau, Power BI, R

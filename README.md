@@ -16,5 +16,5 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/saba-soha
 ## 🧰 Tech Stack
 - Languages: Java, Python, JavaScript/TypeScript, SQL
 - Libraries/Tools: Scikit-Learn, matplotlib, Jupyter Notebooks, Google Colab, NumPy, SciPy, Pandas, Git
-- Web Dev: React.js, Express, Axios, MongoDB
+- Web Dev: React.js, Express, Axios, MongoDB  
 ✍️ Currently learning R, Tableau, Power BI

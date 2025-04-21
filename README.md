@@ -16,5 +16,5 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/saba-soha
 ## 🧰 Tech Stack
 - Languages: Java, Python, JavaScript/TypeScript, SQL, R
 - Libraries/Tools: Scikit-Learn, matplotlib, NumPy, SciPy, Pandas
-- Databases: MongoDB, SQLite
+- Databases: MongoDB, SQLite  
 ✍️ Currently learning Tableau & Power BI

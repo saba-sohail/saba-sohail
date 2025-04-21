@@ -14,7 +14,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/saba-soha
 - Check out the [repository](https://github.com/saba-sohail/Pfizer-Vaccination-Rates)!
 
 ## 🧰 Tech Stack
-- Languages: Java, Python, JavaScript/TypeScript, SQL
-- Libraries/Tools: Scikit-Learn, matplotlib, Jupyter Notebooks, Google Colab, NumPy, SciPy, Pandas, Git
-- Web Dev: React.js, Express, Axios, MongoDB  
-✍️ Currently learning R, Tableau, Power BI
+- Languages: Java, Python, JavaScript/TypeScript, SQL, R
+- Libraries/Tools: Scikit-Learn, matplotlib, NumPy, SciPy, Pandas
+- Databases: MongoDB, SQLite
+✍️ Currently learning Tableau & Power BI
